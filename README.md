@@ -38,10 +38,14 @@
   - student_management.sql
   - student_analysis.sql
 
-
-
-
-
+# Technologies Used
+  - MySQL
+  - MySQL Workbench
+  - SQL
+  - GitHub
+  
+# Conclusion
+  - This project demonstrates SQL skills by analyzing student performance data and generating meaningful business insights using joins, aggregations, subqueries, CTEs, and window functions.
 
 
 
